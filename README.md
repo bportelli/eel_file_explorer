@@ -1,2 +1,2 @@
-# eel_file_explorer
-File Explorer Built on Eel (Python): Proof of Concept
+# Eel File Explorer
+File Explorer built on Eel (Python): proof of concept
